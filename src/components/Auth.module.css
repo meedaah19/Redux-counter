@@ -27,3 +27,14 @@
   padding: 0.25rem;
   border: 1px solid #ccc;
 }
+
+
+@media screen and (max-width: 768px) {
+  .auth {
+    margin:1 0;
+    width: 22rem;
+    padding-left:  0;
+    padding-right: 0;
+  }
+  
+}

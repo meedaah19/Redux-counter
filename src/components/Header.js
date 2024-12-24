@@ -18,10 +18,10 @@ const Header = () => {
         <nav>
         <ul>
           <li>
-            <a href='/'>My Products</a>
+            <a href='/'>Products</a>
           </li>
           <li>
-            <a href='/'>My Sales</a>
+            <a href='/'>Sales</a>
           </li>
           <li>
             <button onClick={logoutHandler}>Logout</button>
